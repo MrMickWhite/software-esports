@@ -12,7 +12,7 @@
    ===================================================================== */
 const CONFIG = {
   whatsapp: "593985210501",                       // WhatsApp de contacto (país + número, sin + ni espacios)
-  discord:  "https://discord.gg/YnHqrNw9",        // invitación de Discord
+  discord:  "https://discord.gg/G8eG5Tc68",        // invitación de Discord
   precioPorJugador: 5,                            // 💵 PRECIO POR DEFECTO (se usa si un juego no tiene precio propio)
   fechaTorneo: "",                                // "" = Por confirmar. Ej: "2026-12-20T18:00:00"
   reglamentoPDF: "",                              // enlace a PDF del reglamento (opcional)
